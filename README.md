@@ -2,7 +2,9 @@
 
 **`Engenheira de Software`**
 
-Acredito que a tecnologia é uma ferramenta poderosa para promover mudanças significativas e otimizar processos, e é com esse propósito que me dedico a minha carreira. "[Linkedin](https://www.linkedin.com/in/analice-almeida/)".
+Acredito que a tecnologia é uma ferramenta poderosa para promover mudanças significativas e otimizar processos, e é com esse propósito que me dedico a minha carreira. 
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/analice-almeida/)
 
 ---
 
